@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "appcenter": "2.0.0",
+    "appcenter-analytics": "2.0.0",
+    "appcenter-crashes": "2.0.0",
     "firebase": "^6.0.4",
     "lodash": "^4.17.11",
     "react": "16.8.3",
